@@ -1,0 +1,13 @@
+#Virtual Environment
+.venv/
+venv/
+
+#Python cache files
+__pycache__/
+*.py[cod]
+
+#Jupiter files
+.ipynb_checkpoints/
+*.ipynb
+
+#VS code workspace setting
